@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/hmd/CAP_sprout/device.mk)
 
 PRODUCT_DEVICE := CAP_sprout
-PRODUCT_NAME := omni_CAP_sprout
+PRODUCT_NAME := twrp_CAP_sprout
 PRODUCT_BRAND := Nokia
 PRODUCT_MODEL := Nokia 5.3
 PRODUCT_MANUFACTURER := hmd
